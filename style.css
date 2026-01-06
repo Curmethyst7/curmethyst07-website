@@ -6,20 +6,20 @@ p {
   font-family: "Fredoka One";
   text-align: center;
   margin-top: 40vh;
+  color: white;
 }
 
 .head {
   font-weight: bold;
   font-size: 140px;
-  color: white;
 }
 
 .title {
   font-size: 50px;
-  color: white;
+  margin-top: 5px;
 }
 
 .content {
   font-size: 40px;
-  color: white;
+  margin-top: 3px;
 }
