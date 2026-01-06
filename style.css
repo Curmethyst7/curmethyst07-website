@@ -3,13 +3,24 @@ body {
 }
 
 p {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  font-size: 50px;
+  font-family: "Fredoka One";
+  margin-top: 0;
+  margin-bottom: 0;
   text-align: center;
 }
 
 .head {
   font-weight: bold;
-  font-size: 100px;
-  color: white
+  font-size: 180px;
+  color: white;
+}
+
+.title {
+  font-size: 60px;
+  color: white;
+}
+
+.content {
+  font-size: 40px;
+  color: white;
 }
