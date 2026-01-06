@@ -11,15 +11,15 @@ p {
 
 .head {
   font-weight: bold;
-  font-size: 20vw;
+  font-size: 15vw;
 }
 
 .title {
-  font-size: 10vw;
+  font-size: 5vw;
   margin-top: 5px;
 }
 
 .content {
-  font-size: 8vw;
+  font-size: 4vw;
   margin-top: 3px;
 }
